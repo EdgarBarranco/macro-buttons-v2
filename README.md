@@ -16,8 +16,8 @@ On visual studio code:
 *  Push the right arrow to build and upload the code to the board
 *  Use your favorit com port terminal and connect
 
-Libraries (standard libraries already installed):
-*  [Keypad](http://playground.arduino.cc/Code/Keypad)
+Libraries:
+*  [Keypad](https://github.com/Chris--A/Keypad)
 *  [EEPROM](https://www.arduino.cc/en/Reference/EEPROM)
 *  [I2C_EEPROM](https://github.com/RobTillaart/I2C_EEPROM)
   
